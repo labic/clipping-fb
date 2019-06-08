@@ -1,0 +1,3 @@
+id	candidato	poltico
+1639144726400686	Aridelmo Teixeira	Dra. Jessica Polese
+2074630489445768	Aridelmo Teixeira	Aridelmo Teixeira

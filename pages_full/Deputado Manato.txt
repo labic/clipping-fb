@@ -1,0 +1,18 @@
+id	candidato	poltico
+197504777788137	Deputado Manato	Dra. Soraya Manato
+1518519038186669	Deputado Manato	Adriana Bas
+462870140747836	Deputado Manato	Amarildo Lovato
+368704519884205	Deputado Manato	Amaro Neto
+172779819443505	Deputado Manato	Carlos Manato
+604028822974212	Deputado Manato	Magno Malta
+506229326107245	Deputado Manato	Torino Marques
+1457319794519357	Deputado Manato	Cludia Lemos
+547595435295800	Deputado Manato	Erick Musso
+231369056908750	Deputado Manato	Rodney Miranda
+644767952255592	Deputado Manato	Hudson Leal
+803571033123776	Deputado Manato	Gilsinho Lopes
+124653571491218	Deputado Manato	PSL ES
+435058529978585	Deputado Manato	PRB Esprito Santo
+1962852810612538	Deputado Manato	Direita Esprito Santo
+568871840139917	Deputado Manato	Opressor Sudeste ES - 2.0
+621359954733123	Deputado Manato	ILES - Instituto Liberal do Esprito Santo

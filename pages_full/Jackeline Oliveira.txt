@@ -1,0 +1,10 @@
+id	candidato	poltico
+316296538927917	Jackeline Oliveira	Jackeline Rocha
+217502511748208	Jackeline Oliveira	Joo Coser
+1526046754328383	Jackeline Oliveira	Jos Carlos Nunes
+546851998788534	Jackeline Oliveira	Helder Salomo
+615237995255987	Jackeline Oliveira	Padre Honrio
+339374429464250	Jackeline Oliveira	Iriny Lopes
+1381410908750553	Jackeline Oliveira	Perly Cipriano
+184756385196176	Jackeline Oliveira	Izanildo Sabino
+323982381085232	Jackeline Oliveira	PT ES

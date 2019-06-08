@@ -1,0 +1,31 @@
+ids	tipo de evento	nome do evento
+275060412517621	midia	Gazeta Online
+420492927994080	midia	Seculo Dirio
+175145699221304	midia	Folha Vitria
+226755307360121	midia	Balano Geral
+352906838153169	midia	Cidade Alerta ES
+220034338159361	midia	TV Gazeta
+225324390868461	midia	Jornal da TV Vitoria
+189621137792474	midia	Capixaba da Gema
+162394003811128	midia	A Tribuna
+122078224611167	midia	ES HOJE
+139740482869843	midia	Serra Noticirio
+316351891868571	midia	Aqui Noticias ES
+337489609659509	midia	Vitoria News
+264498290268664	midia	Rede Sim
+562350287134234	midia	Ninja ES
+168835293154155	midia	Folha da Cidade de Guarapari
+220840841392909	midia	Portal
+550646048344695	midia	ES em FOCO
+157689071092715	midia	Record News
+236437266510431	midia	Tempo Novo
+1067955843265441	midia	Band News ES
+1779011685754255	midia	CBN Vitria
+469412123071081	midia	Portal Guandu
+579440002123562	midia	Site de Linhares
+1114541098638425	midia	Capixaba News
+499283266785687	midia	Eu vi Linhares
+300475413474422	midia	Tribun do Cricar
+435652269791926	midia	ESTV Sul
+376535632464472	midia	Tv Cachoeiro
+290218411728479	midia	Imprensa Livre ES

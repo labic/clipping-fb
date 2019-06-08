@@ -1,0 +1,58 @@
+id	candidato	poltico
+266130157193725	Renato Casagrande	Alexandre Bastos
+482264785187883	Renato Casagrande	Bruno Lamas
+191837000989877	Renato Casagrande	Csar Colnago
+147782025716295	Renato Casagrande	Coronel Foresti
+499520976775813	Renato Casagrande	Da Vitria
+442776839108026	Renato Casagrande	Davi Esmael
+1857230874539331	Renato Casagrande	Dileuza Martins
+1456719271099392	Renato Casagrande	Fbio Nascimento Trindade
+262615917173939	Renato Casagrande	Fabrcio Gandini
+597347740304658	Renato Casagrande	Freitas
+473522689344881	Renato Casagrande	Jaqueline Moraes
+2408440072713971	Renato Casagrande	Julio Pompeu
+1156077684527055	Renato Casagrande	Lenise Loureiro
+278586735582785	Renato Casagrande	Luciano Rezende
+426935580655632	Renato Casagrande	Luiz Paulo Velozo Lucas
+809897169049609	Renato Casagrande	Marcelo Santos
+360331564101406	Renato Casagrande	Marcos do Val
+437826809658259	Renato Casagrande	Marcos Mansur
+391522601036710	Renato Casagrande	Marcus Vicente
+1434358049907610	Renato Casagrande	Nathan Medeiros
+217565111759515	Renato Casagrande	Norma Ayub
+184948081656256	Renato Casagrande	Paulo Foletto
+240383372683895	Renato Casagrande	Renato Casagrande
+490371597647024	Renato Casagrande	Ricardo Ferrao
+689982201058753	Renato Casagrande	Srgio Majeski
+952849801440316	Renato Casagrande	Sergio Vidigal
+1153318911414644	Renato Casagrande	Theodorico Ferrao
+1087774731245859	Renato Casagrande	Victor Coelho
+663900767017406	Renato Casagrande	Raquel Lessa
+1403024549917648	Renato Casagrande	Sandro Locutor
+1070870652938954	Renato Casagrande	Cacau Lorenzoni
+529821053761365	Renato Casagrande	Evair de Melo
+187775731359502	Renato Casagrande	Givaldo Vieira
+302340639864822	Renato Casagrande	Jamir Malini
+355777894498842	Renato Casagrande	PSB ES
+445386342213116	Renato Casagrande	PSDB ES
+1670817892960282	Renato Casagrande	PPS ES
+218115831709002	Renato Casagrande	PDT Vitria ES
+1552925941389043	Renato Casagrande	Partido Progressista - ES
+117507591649109	Renato Casagrande	Democratas Vitria
+845762618907201	Renato Casagrande	PROS ES
+784333358350141	Renato Casagrande	PCdoB Vitria/ES
+711288605584019	Renato Casagrande	Jorge Silva
+827116024021576	Renato Casagrande	Marcos Bruno
+1045702348827034	Renato Casagrande	PSB Serra
+1419398818322771	Renato Casagrande	PDT Serra ES
+1374598512839742	Renato Casagrande	Edson Magalhaes
+356305531112376	Renato Casagrande	Neucimar Fraga
+231201077075317	Renato Casagrande	Enivaldo dos Anjos
+713579562120783	Renato Casagrande	PSD ES
+751443884985177	Renato Casagrande	Eliana Dadalto
+368894103240290	Renato Casagrande	Gilson Amaro
+193976134066406	Renato Casagrande	Iracy Baltar
+1189143037813594	Renato Casagrande	Higner Mansur
+1504333749872928	Renato Casagrande	Octaciano Neto
+122625971233241	Renato Casagrande	Rodrigo Coelho
+644975535590108	Renato Casagrande	Vandinho Leite

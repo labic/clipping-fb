@@ -1,0 +1,12 @@
+id	candidato	poltico
+1437427543172707	Andr Moreira	Camila Valadao
+626875090736001	Andr Moreira	Andr Moreira
+1638271923156956	Andr Moreira	Liu Katrini
+384052258344470	Andr Moreira	Mnica Alves
+2010460112319749	Andr Moreira	Brice Bragato
+295641520827398	Andr Moreira	Professor Swami
+697257390325704	Andr Moreira	Nico Dias
+653200231428440	Andr Moreira	Mauro Ribeiro
+390788021372189	Andr Moreira	Partido Socialismo e Liberdade - PSOL ES
+1053347458144434	Andr Moreira	Psol Serra - ES
+500272160178532	Andr Moreira	PSOL Vitria/ES

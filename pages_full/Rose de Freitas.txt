@@ -1,0 +1,25 @@
+id	candidato	poltico
+195314637248695	Rose de Freitas	Audifax Barcelos
+783999288312445	Rose de Freitas	Fabiano Contarato
+345146585587698	Rose de Freitas	Gilson Daniel
+994775153890815	Rose de Freitas	Gustavo de Biase
+1606541096264792	Rose de Freitas	Janete de S
+235409626644713	Rose de Freitas	Jos Esmeraldo 
+1587565344835542	Rose de Freitas	Lelo Coimbra
+334194826736140	Rose de Freitas	Luzia Toledo
+195595460592918	Rose de Freitas	Professor Roberto Carlos
+1416553191900068	Rose de Freitas	Rafael Favatto
+266710610020532	Rose de Freitas	Rose de Freitas
+546862722030959	Rose de Freitas	Dary Pagung
+548122275283090	Rose de Freitas	Esmael Almeida
+1651692111775838	Rose de Freitas	Andr Garcia
+411595042270936	Rose de Freitas	Doutor Hrcules
+374024492663682	Rose de Freitas	Guerino Zanon
+2053900598231570	Rose de Freitas	MDB ES
+1416862635234384	Rose de Freitas	Rede ES
+144376729455596	Rose de Freitas	Patriota 51 - Esprito Santo
+345390632548406	Rose de Freitas	PODE ES
+199594460768021	Rose de Freitas	PRP ES
+1553609894899014	Rose de Freitas	Solidariedade Esprito Santo
+450644441774294	Rose de Freitas	Solidariedade Jovem ES
+309301535940627	Rose de Freitas	Solidariedade Serra - ES
